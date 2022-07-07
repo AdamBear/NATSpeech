@@ -1,0 +1,4 @@
+base_config: egs/egs_bases/tts/vocoder/base.yaml
+raw_data_dir: 'e:/data/data_aishell3'
+processed_data_dir: 'e:/data/processed_aishell3'
+binary_data_dir: 'e:/data/processed_aishell3'
